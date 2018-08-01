@@ -1,0 +1,15 @@
+{
+  "name": "sql-server",
+  "version": "1.0.0",
+  "description": "SQL Server",
+  "main": "sql-server.js",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node sql-server.js"
+  },
+  "author": "Jackson Currie",
+  "license": "ISC"
+}
